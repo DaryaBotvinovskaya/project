@@ -45,7 +45,7 @@ ______
 
 ## Используемые библиотеки
 
-pandas, seaborn, Matplotlib, Plotly, numpy, datetime, scipy, math
+pandas, seaborn, Matplotlib, Plotly, numpy, datetime, scipy, math, phik
 
 ## Рекомендации для отдела маркетинга по рассылке информационных писем клиентам по сегментам:
 
