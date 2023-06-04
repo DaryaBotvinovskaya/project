@@ -44,7 +44,7 @@ ______
 
 ## Используемые библиотеки
 
-pandas, seaborn, Matplotlib, Plotly, numpy, datetime, scipy, math, phik
+pandas, Matplotlib, numpy, scipy
 
 ## Общий вывод
 
