@@ -28,7 +28,7 @@ _____
 
 ## Используемые библиотеки
 
-pandas, seaborn, Matplotlib, Plotly, json, folium
+pandas, seaborn, Matplotlib, Plotly, numpy, datetime, scipy, math
 
 ## Общий вывод
 
