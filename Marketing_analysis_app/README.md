@@ -56,7 +56,7 @@ ______
 
 ## Используемые библиотеки
 
-pandas, Matplotlib, numpy, scipy
+pandas, seaborn, Matplotlib, numpy
 
 ## Общий вывод
 
