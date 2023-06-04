@@ -3,3 +3,4 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
+| [Analysis of the Moscow catering market] (Analysis of the Moscow catering market) |
